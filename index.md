@@ -1,7 +1,8 @@
 ---
 layout: default
 title: TOP 20 Języków Programowania
----# TOP 20 Języków Programowania wg TIOBE
+---
+# TOP 20 Języków Programowania wg TIOBE
 
 ## 1. Python
 ![Python](images/Python.png)
