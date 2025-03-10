@@ -22,7 +22,7 @@ title: TOP 20 Języków Programowania
 email: adam.karaczewski@gmail.com
 description: >
   Ranking TOP 20 języków programowania według TIOBE, automatycznie generowany.
-baseurl: "task1/"
+baseurl: "z1/"
 url: ""
 
 theme: minima
